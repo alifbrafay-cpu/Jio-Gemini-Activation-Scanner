@@ -1,11 +1,8 @@
-"""
 import streamlit as st
 
-st.title("Jio-Gemini-Activation-Scanner
-")
-Jio Gemini Activation Scanner
-Flow: All Panels -> Online Devices -> Unique Numbers -> Then Process Links
-"""
+st.title("Jio-Gemini-Activation-Scanner")
+st.write("Flow: All Panels -> Online Devices -> Unique Numbers -> Then Process Links")
+
 from __future__ import annotations
 import csv
 import html
